@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lofon
-- 👀 I’m interested in <coding>
-- 🌱 I’m currently learning <bigdata>
-- 💞️ I’m looking to collaborate on <data mining>
+- 👀 I’m interested in __coding__
+- 🌱 I’m currently learning __bigdata__
+- 💞️ I’m looking to collaborate on __data mining__
 - 📫 You can reach me at <lofone@icloud.com>
 
 <!---
